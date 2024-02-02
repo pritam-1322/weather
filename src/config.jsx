@@ -1,0 +1,1 @@
+export const CURRENT_WAETHER_API=`https://api.openweathermap.org/data/2.5/weather?appid=${import.meta.env.VITE_OPEN_WEATHER_API_KEY}&`;
